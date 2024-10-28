@@ -1,0 +1,145 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f2f2f2;
+    padding: 20px;
+    background-image: url('https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/rewards/celebrations/fullscreensample/hol_reward_bg.png');
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+    color: #333;
+    font-size: 2em;
+}
+input[type="file"], input[type="text"] {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    font-size: 1em;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+button:hover {
+    background-color: #45a049;
+}
+.skins-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+.skin-item {
+    border: 1px solid #ddd;
+    padding: 8px;
+    background-color: #fff;
+    position: relative;
+    width: 155px; /* 221px giảm thêm 30% */
+    height: 320px; /* 457px giảm thêm 30% */
+    margin: 10px 10px 5px 10px; /* 5px margin at the bottom */
+    background-image: url('https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/worlds2024/leagueclient/flag_worlds2024_4_profile.png');
+    background-size: cover;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+.skin-item:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+}
+.skin-info {
+    position: relative;
+    width: 155px; /* 221px giảm thêm 30% */
+    height: 283px; /* 404px giảm thêm 30% */
+}
+.skin-info img {
+    position: absolute;
+    left: 0;
+}
+.skin-info img.borders {
+    width: 155px; /* 221px giảm thêm 30% */
+    height: 294px; /* 419.67px giảm thêm 30% */
+    top: 8.67px; /* Chỉnh xuống dưới 30% */
+    z-index: 3;
+}
+.skin-info img.rarity {
+    width: 22.90px; /* 32.71px giảm thêm 30% */
+    height: 23.60px; /* 33.71px giảm thêm 30% */
+    z-index: 4;
+    bottom: 7.47px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.skin-info img.img {
+    width: 156.19px; /* 223.13px giảm thêm 30% */
+    height: 270.10px; /* 385.86px giảm thêm 30% */
+    left: -0.82px; /* Centered */
+    top: 10.39px; /* Chỉnh xuống 30% */
+    z-index: 1;
+}
+.skin-info img.imgb {
+    width: 156.19px; /* 223.13px giảm thêm 30% */
+    height: 270.10px; /* 385.86px giảm thêm 30% */
+    left: -0.82px; /* Centered */
+    top: 10.39px; /* Chỉnh xuống 30% */
+    z-index: 2;
+}
+.skin-name {
+    text-align: center;
+    margin-top: 5px;
+    font-size: 0.6em; /* Làm nhỏ chữ */
+    font-weight: bold;
+    color: #333;
+}
+/* Toggle Switch CSS */
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 40px;
+    height: 24px;
+}
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    transition: .4s;
+}
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 18px;
+    width: 18px;
+    left: 3px;
+    bottom: 3px;
+    background-color: white;
+    transition: .4s;
+}
+input:checked + .slider {
+    background-color: #2196F3;
+}
+input:checked + .slider:before {
+    transform: translateX(16px);
+}
+.slider.round {
+    border-radius: 34px;
+}
+.slider.round:before {
+    border-radius: 50%;
+}
