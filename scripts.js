@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const skinsContainer = document.getElementById('skins-container');
     const filterInput = document.getElementById('filter');
 
-    fetch('https://raw.githubusercontent.com/hoccode241/code241/refs/heads/main/datac.json')
+    fetch('https://raw.githubusercontent.com/hoccode241/youskins/refs/heads/main/champion_skins_data.json')
         .then(response => response.json())
         .then(skinsData => {
             skinsContainer.innerHTML = ''; // Clear previous content
