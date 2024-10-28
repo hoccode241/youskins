@@ -11,7 +11,7 @@
       {
         "name": "Aatrox Công Lý",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_mythic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin01/aatroxloadscreen_1png",
+        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin01/aatroxloadscreen_1.png",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/mythic.png",
         "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin01/aatroxloadscreen_1.png"
       },
@@ -25,7 +25,7 @@
       {
         "name": "Aatrox Thợ Săn Đại Dương",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_legendary.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin03/aatroxloadscreen_3_le.png",
+        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin03/aatroxloadscreen_3.png",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/legendary.png",
         "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin03/aatroxloadscreen_3.png"
       },
@@ -67,30 +67,30 @@
       {
         "name": "Aatrox Nguyệt Thực",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin21/aatroxloadscreen_21.png",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin21/aatroxloadscreen_21.png"
       },
       {
         "name": "DRX Aatrox",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin30/aatroxloadscreen_30.png",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin30/aatroxloadscreen_30_le.png"
       },
       {
         "name": "DRX Aatrox - Hàng Hiệu",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin31/aatroxloadscreen_31.png",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin31/aatroxloadscreen_31_le.png"
       },
       {
         "name": "Aatrox Tộc Thượng Cổ",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin33/aatroxloadscreen_33.skins_aatrox_skin33.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin33/aatroxloadscreen_33_le.skins_aatrox_skin33.jpg"
       }
     ]
   },
@@ -99,72 +99,72 @@
       {
         "name": "default",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/base/ahriloadscreen_0.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/base/ahriloadscreen_0.jpg"
       },
       {
         "name": "Ahri Hàn Triều",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin01/ahriloadscreen_1.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin01/ahriloadscreen_1.jpg"
       },
       {
         "name": "Ahri Bóng Đêm",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin02/ahriloadscreen_2.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin02/ahriloadscreen_2.jpg"
       },
       {
         "name": "Ahri Hỏa Hồ Ly",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin03/ahriloadscreen_3.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin03/ahriloadscreen_3.jpg"
       },
       {
         "name": "Ahri Thần Tượng Âm Nhạc",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin04/ahriloadscreen_4.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin04/ahriloadscreen_4.jpg"
       },
       {
         "name": "Ahri Thách Đấu",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin05/ahriloadscreen_5.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin05/ahriloadscreen_5_le.jpg"
       },
       {
         "name": "Ahri Nữ Sinh Thanh Lịch",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin06/ahriloadscreen_6.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin06/ahriloadscreen_6.jpg"
       },
       {
         "name": "Ahri Giả Lập",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin07/ahriloadscreen_7.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin07/ahriloadscreen_7.jpg"
       },
       {
         "name": "Ahri Vệ Binh Tinh Tú",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin14/ahriloadscreen_14.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin14/ahriloadscreen_14_le.jpg"
       },
       {
         "name": "K/DA Ahri",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin15/ahriloadscreen_15.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin15/ahriloadscreen_15.jpg"
       },
       {
         "name": "K/DA Ahri - Hàng Hiệu",
