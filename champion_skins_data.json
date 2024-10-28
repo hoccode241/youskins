@@ -62,7 +62,7 @@
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
         "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin20/aatroxloadscreen_20.png",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin20/aatroxloadscreen_20_le.png"
+        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin20/aatroxloadscreen_20.png"
       },
       {
         "name": "Aatrox Nguyệt Thực",
@@ -385,7 +385,7 @@
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
         "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin82/akaliloadscreen_82.skins_akali_skin82.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin82/akaliloadscreen_82.skins_akali_skin82_le.jpg"
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin82/akaliloadscreen_82_le.skins_akali_skin82.jpg"
       }
     ]
   },
