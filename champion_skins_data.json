@@ -11,58 +11,58 @@
       {
         "name": "Aatrox Công Lý",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_mythic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_1png",
+        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin01/aatroxloadscreen_1png",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/mythic.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_1.png"
+        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin01/aatroxloadscreen_1.png"
       },
       {
         "name": "Aatrox Máy Móc",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/unknown/befbd646c6999df3.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_2.png",
+        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin02/aatroxloadscreen_2.png",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/transcendent.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_2.png"
+        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin02/aatroxloadscreen_2.png"
       },
       {
         "name": "Aatrox Thợ Săn Đại Dương",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_legendary.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_3_le.png",
+        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin03/aatroxloadscreen_3_le.png",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/legendary.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_3.png"
+        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin03/aatroxloadscreen_3.png"
       },
       {
         "name": "Aatrox Huyết Nguyệt",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin07/aatroxloadscreen_7.png",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin07/aatroxloadscreen_7.png"
       },
       {
         "name": "Aatrox Huyết Nguyệt - Hàng Hiệu",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin08/aatroxloadscreen_8.png",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin08/aatroxloadscreen_8.png"
       },
       {
         "name": "Aatrox Vinh Quang",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin09/aatroxloadscreen_9.png",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin09/aatroxloadscreen_9.png"
       },
       {
         "name": "Aatrox Ác Ma Không Gian",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11.png",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
         "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
       },
       {
         "name": "Aatrox Huyết Nguyệt - Hàng Hiệu (2022)",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin20/aatroxloadscreen_20.png",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin20/aatroxloadscreen_20_le.png"
       },
       {
         "name": "Aatrox Nguyệt Thực",
