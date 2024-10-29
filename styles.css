@@ -4,7 +4,7 @@ body {
     padding: 20px;
     background-image: url('https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/rewards/celebrations/fullscreensample/hol_reward_bg.png');
     background-size: cover;
-    cursor:url(https://raw.communitydragon.org/latest/game/assets/ux/cursors/hand1_tco.png), auto;
+    cursor:url(https://raw.communitydragon.org/latest/game/assets/ux/cursors/hover_ally_precise.png), auto;
 }
 h1 {
     text-align: center;
