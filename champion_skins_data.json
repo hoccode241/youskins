@@ -2370,86 +2370,86 @@
       {
         "name": "default",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/base/ekkoloadscreen.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/base/ekkoloadscreen.jpg"
       },
       {
         "name": "Ekko Bão Cát",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin01/ekkoloadscreen_1.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin01/ekkoloadscreen_1.jpg"
       },
       {
         "name": "Ekko Nam Sinh Ngổ Ngáo",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin02/ekkoloadscreen_2.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin02/ekkoloadscreen_2.jpg"
       },
       {
         "name": "SIÊU PHẨM: Ekko",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin03/ekkoloadscreen_3.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin03/ekkoloadscreen_3_le.jpg"
       },
       {
         "name": "SKT T1 Ekko",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin11/ekkoloadscreen_11.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin11/ekkoloadscreen_11.jpg"
       },
       {
         "name": "Ekko Bí Ngô",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin12/ekkoloadscreen_12.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin12/ekkoloadscreen_12_le.jpg"
       },
       {
         "name": "True Damage Ekko",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin19/ekkoloadscreen_19.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin19/ekkoloadscreen_19_le.jpg"
       },
       {
         "name": "Ekko Vũ Khí Tối Thượng",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin28/ekkoloadscreen_28.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin28/ekkoloadscreen_28_le.jpg"
       },
       {
         "name": "Ekko Thủ Lĩnh Ánh Lửa",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin36/ekkoloadscreen_36.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin36/ekkoloadscreen_36.jpg"
       },
       {
         "name": "Ekko Vệ Binh Tinh Tú",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin45/ekkoloadscreen_45.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin45/ekkoloadscreen_45_le.jpg"
       },
       {
         "name": "Ekko Vệ Binh Tinh Tú - Hàng Hiệu",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin46/ekkoloadscreen_46.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin46/ekkoloadscreen_46_le.jpg"
       },
       {
         "name": "True Damage Ekko Bùng Nổ",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin56/ekkoloadscreen_56.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin56/ekkoloadscreen_56_le.jpg"
       }
     ]
   },
@@ -2458,65 +2458,65 @@
       {
         "name": "default",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/base/eliseloadscreen.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/base/eliseloadscreen.jpg"
       },
       {
         "name": "Elise Hoa Độc",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin01/eliseloadscreen_1.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin01/eliseloadscreen_1.jpg"
       },
       {
         "name": "Elise Vinh Quang",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin02/eliseloadscreen_2.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin02/eliseloadscreen_2.jpg"
       },
       {
         "name": "Elise Huyết Nguyệt",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin03/eliseloadscreen_3.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin03/eliseloadscreen_3.jpg"
       },
       {
         "name": "SKT T1 Elise",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin04/eliseloadscreen_4.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin04/eliseloadscreen_4.jpg"
       },
       {
         "name": "Elise Siêu Nhân Thiên Hà",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin05/eliseloadscreen_5.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin05/eliseloadscreen_5.jpg"
       },
       {
         "name": "Elise Phù Thủy",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin06/eliseloadscreen_6.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin06/eliseloadscreen_6_le.jpg"
       },
       {
         "name": "Elise Hồng Tàn Phai",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin15/eliseloadscreen_15.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin15/eliseloadscreen_15.jpg"
       },
       {
         "name": "Elise Tiên Hắc Ám",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin24/eliseloadscreen_24.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin24/eliseloadscreen_24_le.jpg"
       }
     ]
   },
@@ -2525,114 +2525,114 @@
       {
         "name": "default",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/base/evelynnloadscreen.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/base/evelynnloadscreen.jpg"
       },
       {
         "name": "Evelynn Bóng Tối",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin01/evelynnloadscreen_1.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin01/evelynnloadscreen_1.jpg"
       },
       {
         "name": "Evelynn Dạ Vũ",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin02/evelynnloadscreen_2.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin02/evelynnloadscreen_2.jpg"
       },
       {
         "name": "Evelynn Tango",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin03/evelynnloadscreen_3.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin03/evelynnloadscreen_3.jpg"
       },
       {
         "name": "Evelynn Cạy Két",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin04/evelynnloadscreen_4.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin04/evelynnloadscreen_4.jpg"
       },
       {
         "name": "Evelynn Huyết Nguyệt",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin05/evelynnloadscreen_5.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin05/evelynnloadscreen_5.jpg"
       },
       {
         "name": "K/DA Evelynn",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin06/evelynnloadscreen_6.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin06/evelynnloadscreen_6.jpg"
       },
       {
         "name": "K/DA Evelynn - Hàng Hiệu",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin07/evelynnloadscreen_7.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin07/evelynnloadscreen_7.jpg"
       },
       {
         "name": "Evelynn Bánh Ngọt",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin08/evelynnloadscreen_8.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin08/evelynnloadscreen_8_le.jpg"
       },
       {
         "name": "K/DA ALL OUT Evelynn",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin15/evelynnloadscreen_15.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin15/evelynnloadscreen_15_le.jpg"
       },
       {
         "name": "Evelynn Tiên Hắc Ám",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin24/evelynnloadscreen_24.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin24/evelynnloadscreen_24_le.jpg"
       },
       {
         "name": "K/DA Evelynn - Hàng Hiệu (2022)",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin31/evelynnloadscreen_31.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin31/evelynnloadscreen_31.jpg"
       },
       {
         "name": "Evelynn Chiêu Tình Yêu Thần",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin32/evelynnloadscreen_32.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin32/evelynnloadscreen_32_le.jpg"
       },
       {
         "name": "Evelynn Yêu Xà Thực Linh",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin42/evelynnloadscreen_42.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin42/evelynnloadscreen_42_le.jpg"
       },
       {
         "name": "Evelynn Cao Bồi",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin52/evelynnloadscreen_52.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin52/evelynnloadscreen_52_le.jpg"
       },
       {
         "name": "Evelynn Cao Bồi - Hàng Hiệu",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin53/evelynnloadscreen_53.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin53/evelynnloadscreen_53_le.jpg"
       }
     ]
   },
@@ -2641,149 +2641,149 @@
       {
         "name": "default",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/base/ezrealloadscreen.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/base/ezrealloadscreen.jpg"
       },
       {
         "name": "Ezreal Nottingham ",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin01/ezrealloadscreen_1.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin01/ezrealloadscreen_1.jpg"
       },
       {
         "name": "Ezreal Tiền Đạo",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin02/ezrealloadscreen_2.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin02/ezrealloadscreen_2_le.jpg"
       },
       {
         "name": "Ezreal Băng Giá",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin03/ezrealloadscreen_3.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin03/ezrealloadscreen_3.jpg"
       },
       {
         "name": "Ezreal Thám Hiểm",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin04/ezrealloadscreen_4.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin04/ezrealloadscreen_4.jpg"
       },
       {
         "name": "Ezreal Vũ Khí Tối Thượng",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin05/ezrealloadscreen_5.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin05/ezrealloadscreen_5.jpg"
       },
       {
         "name": "TPA Ezreal",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin06/ezrealloadscreen_6.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin06/ezrealloadscreen_6.jpg"
       },
       {
         "name": "Ezreal Thanh Lịch",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin07/ezrealloadscreen_7.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin07/ezrealloadscreen_7.jpg"
       },
       {
         "name": "Ezreal Át Bích",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin08/ezrealloadscreen_8.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin08/ezrealloadscreen_8.jpg"
       },
       {
         "name": "Ezreal Giả Lập",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin09/ezrealloadscreen_9.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin09/ezrealloadscreen_9.jpg"
       },
       {
         "name": "Ezreal Vệ Binh Tinh Tú",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin18/ezrealloadscreen_18.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin18/ezrealloadscreen_18_le.jpg"
       },
       {
         "name": "SSG Ezreal",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin19/ezrealloadscreen_19.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin19/ezrealloadscreen_19_le.jpg"
       },
       {
         "name": "Ezreal Vệ Binh Pyjama",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin20/ezrealloadscreen_20.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin20/ezrealloadscreen_20.jpg"
       },
       {
         "name": "Ezreal Học Viện Chiến Binh",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin21/ezrealloadscreen_21.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin21/ezrealloadscreen_21_le.jpg"
       },
       {
         "name": "Ezreal Đặc Vụ Siêu Linh",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin22/ezrealloadscreen_22.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin22/ezrealloadscreen_22_le.jpg"
       },
       {
         "name": "Ezreal Đặc Vụ Siêu Linh - Hàng Hiệu",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin23/ezrealloadscreen_23.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin23/ezrealloadscreen_23_le.jpg"
       },
       {
         "name": "Ezreal Sứ Thanh Hoa",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin25/ezrealloadscreen_25.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin25/ezrealloadscreen_25_le.jpg"
       },
       {
         "name": "Ezreal Tiên Linh Tài Tử",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin33/ezrealloadscreen_33.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin33/ezrealloadscreen_33_le.jpg"
       },
       {
         "name": "HEARTSTEEL Ezreal",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin43/ezrealloadscreen_43.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin43/ezrealloadscreen_43_le.jpg"
       },
       {
         "name": "Ezreal Thiên Cung Thần Long",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin44/ezrealloadscreen_44.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin44/ezrealloadscreen_44_le.jpg"
       },
       {
         "name": "Ezreal Thiên Cung Thần Long - Hàng Hiệu",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin54/ezrealloadscreen_54.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin54/ezrealloadscreen_54_le.jpg"
       }
     ]
   },
@@ -2792,86 +2792,86 @@
       {
         "name": "default",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/base/fiddlesticksloadscreen.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/base/fiddlesticksloadscreen.jpg"
       },
       {
         "name": "Fiddlesticks Bóng Ma",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin01/fiddlesticksloadscreen_1.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin01/fiddlesticksloadscreen_1.jpg"
       },
       {
         "name": "Fiddlesticks Anh Quốc",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin02/fiddlesticksloadscreen_2.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin02/fiddlesticksloadscreen_2.jpg"
       },
       {
         "name": "Fiddlesticks Tướng Cướp",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin03/fiddlesticksloadscreen_3.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin03/fiddlesticksloadscreen_3.jpg"
       },
       {
         "name": "Fiddlesticks Bí Ngô",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin04/fiddlesticksloadscreen_4.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin04/fiddlesticksloadscreen_4_le.jpg"
       },
       {
         "name": "Fiddlesticks Cướp Biển",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin05/fiddlesticksloadscreen_5.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin05/fiddlesticksloadscreen_5.jpg"
       },
       {
         "name": "Fiddlesticks Tiệc Bất Ngờ",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin06/fiddlesticksloadscreen_6.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin06/fiddlesticksloadscreen_6.jpg"
       },
       {
         "name": "Fiddlesticks Cây Kẹo Dễ Sợ",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin07/fiddlesticksloadscreen_7.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin07/fiddlesticksloadscreen_7.jpg"
       },
       {
         "name": "Fiddlesticks Tà Thần Tái Thế",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin08/fiddlesticksloadscreen_8.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin08/fiddlesticksloadscreen_8.jpg"
       },
       {
         "name": "Fiddlesticks Cận Vệ Thép",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin09/fiddlesticksloadscreen_9.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin09/fiddlesticksloadscreen_9.jpg"
       },
       {
         "name": "Fiddlesticks Tinh Tú Lụi Tàn",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin27/fiddlesticksloadscreen_27.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin27/fiddlesticksloadscreen_27_le.jpg"
       },
       {
         "name": "Fiddlesticks Huyết Nguyệt",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin37/fiddlesticksloadscreen_37.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin37/fiddlesticksloadscreen_37.jpg"
       }
     ]
   },
@@ -2880,114 +2880,114 @@
       {
         "name": "default",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/base/fioraloadscreen.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/base/fioraloadscreen.jpg"
       },
       {
         "name": "Fiora Ngự Lâm Quân",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin01/fioraloadscreen_1.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin01/fioraloadscreen_1.jpg"
       },
       {
         "name": "Fiora Quạ Đêm",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin02/fioraloadscreen_2.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin02/fioraloadscreen_2.jpg"
       },
       {
         "name": "Cô Giáo Fiora",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin03/fioraloadscreen_3.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin03/fioraloadscreen_3.jpg"
       },
       {
         "name": "SIÊU PHẨM: Fiora",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin04/fioraloadscreen_4.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin04/fioraloadscreen_4_le.jpg"
       },
       {
         "name": "Fiora Tiệc Bể Bơi",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin05/fioraloadscreen_5.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin05/fioraloadscreen_5.jpg"
       },
       {
         "name": "Fiora Phi Kiếm",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin22/fioraloadscreen_22.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin22/fioraloadscreen_22.jpg"
       },
       {
         "name": "Fiora Kiếm Sĩ Tình Ái",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin23/fioraloadscreen_23.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin23/fioraloadscreen_23.jpg"
       },
       {
         "name": "iG Fiora",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin31/fioraloadscreen_31.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin31/fioraloadscreen_31_le.jpg"
       },
       {
         "name": "Fiora Vũ Khí Tối Thượng",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin41/fioraloadscreen_41.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin41/fioraloadscreen_41_le.jpg"
       },
       {
         "name": "Fiora Niên Thú Nguyên Đán",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin50/fioraloadscreen_50.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin50/fioraloadscreen_50_le.jpg"
       },
       {
         "name": "Fiora Niên Thú Nguyên Đán - Hàng Hiệu",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin51/fioraloadscreen_51.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin51/fioraloadscreen_51_le.jpg"
       },
       {
         "name": "Fiora Phù Thủy",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin60/fioraloadscreen_60.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin60/fioraloadscreen_60_le.jpg"
       },
       {
         "name": "Fiora Tiên Linh Đại Sứ",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin69/fioraloadscreen_69.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin69/fioraloadscreen_69_le.jpg"
       },
       {
         "name": "Fiora Mộng Long Kiếm",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin80/fioraloadscreen_80.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin80/fioraloadscreen_80_le.jpg"
       },
       {
         "name": "Fiora Nữ Thần Chiến Binh",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin89/fioraloadscreen_89.skins_fiora_skin89.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin89/fioraloadscreen_89.skins_fiora_skin89.jpg"
       }
     ]
   },
@@ -2996,100 +2996,100 @@
       {
         "name": "default",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/base/fizzloadscreen.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/base/fizzloadscreen.jpg"
       },
       {
         "name": "Fizz Cư Dân Át-lan-tích",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin01/fizzloadscreen_1.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin01/fizzloadscreen_1.jpg"
       },
       {
         "name": "Fizz Lãnh Nguyên",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin02/fizzloadscreen_2.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin02/fizzloadscreen_2.jpg"
       },
       {
         "name": "Fizz Đánh Cá",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin03/fizzloadscreen_3.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin03/fizzloadscreen_3.jpg"
       },
       {
         "name": "Fizz Hư Không",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin04/fizzloadscreen_4.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin04/fizzloadscreen_4.jpg"
       },
       {
         "name": "Fizz Thỏ Phục Sinh",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin08/fizzloadscreen_8.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin08/fizzloadscreen_8.jpg"
       },
       {
         "name": "Fizz Siêu Nhân Thiên Hà",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin09/fizzloadscreen_9.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin09/fizzloadscreen_9.jpg"
       },
       {
         "name": "Fizz Biệt Đội Omega",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin10/fizzloadscreen_10.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin10/fizzloadscreen_10.jpg"
       },
       {
         "name": "Fizz Chú Chó Tinh Nghịch",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin14/fizzloadscreen_14.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin14/fizzloadscreen_14_le.jpg"
       },
       {
         "name": "Fizz Chú Chó Tinh Nghịch - Hàng Hiệu",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin15/fizzloadscreen_15.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin15/fizzloadscreen_15.jpg"
       },
       {
         "name": "Fizz Tiểu Quỷ",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin16/fizzloadscreen_16.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin16/fizzloadscreen_16.jpg"
       },
       {
         "name": "Fizz Chú Chó Tinh Nghịch - Hàng Hiệu (2022)",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin25/fizzloadscreen_25.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin25/fizzloadscreen_25.jpg"
       },
       {
         "name": "Fizz Phi Hành Gia",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin26/fizzloadscreen_26.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin26/fizzloadscreen_26.jpg"
       },
       {
         "name": "Fizz Ếch Xanh Lữ Hành",
         "borders": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-collections/global/default/images/skins-viewer/borders/borders_normal.png",
-        "img": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png",
+        "img": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin35/fizzloadscreen_35.skins_fizz_skin35.jpg",
         "rarity": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/epic.png",
-        "imgb": "https://raw.communitydragon.org/latest/game/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11_le.png"
+        "imgb": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin35/fizzloadscreen_35.skins_fizz_skin35.jpg"
       }
     ]
   },
