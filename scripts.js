@@ -48,9 +48,9 @@ document.addEventListener('DOMContentLoaded', () => {
                             skinItem.querySelector('.toggle-input').addEventListener('change', (event) => {
                                 const imgbElement = skinItem.querySelector('.imgb');
                                 if (event.target.checked) {
-                                    imgbElement.style.display = 'block';
-                                } else {
                                     imgbElement.style.display = 'none';
+                                } else {
+                                    imgbElement.style.display = 'block';
                                 }
                             });
                         }
